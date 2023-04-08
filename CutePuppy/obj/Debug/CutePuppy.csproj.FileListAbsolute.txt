@@ -1,0 +1,247 @@
+C:\Users\ShuChen\source\repos\CutePuppy\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe.config
+C:\Users\ShuChen\source\repos\CutePuppy\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe
+C:\Users\ShuChen\source\repos\CutePuppy\CutePuppy\CutePuppy\bin\Debug\CutePuppy.pdb
+C:\Users\ShuChen\source\repos\CutePuppy\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.AssemblyReference.cache
+C:\Users\ShuChen\source\repos\CutePuppy\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.SuggestedBindingRedirects.cache
+C:\Users\ShuChen\source\repos\CutePuppy\CutePuppy\CutePuppy\obj\Debug\CutePuppy.FormLogin.resources
+C:\Users\ShuChen\source\repos\CutePuppy\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Properties.Resources.resources
+C:\Users\ShuChen\source\repos\CutePuppy\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.GenerateResource.cache
+C:\Users\ShuChen\source\repos\CutePuppy\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.CoreCompileInputs.cache
+C:\Users\ShuChen\source\repos\CutePuppy\CutePuppy\CutePuppy\obj\Debug\CutePuppy.exe
+C:\Users\ShuChen\source\repos\CutePuppy\CutePuppy\CutePuppy\obj\Debug\CutePuppy.pdb
+E:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.AssemblyReference.cache
+E:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.SuggestedBindingRedirects.cache
+E:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.FormMember.resources
+E:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.FormLogin.resources
+E:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Properties.Resources.resources
+E:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.GenerateResource.cache
+E:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.CoreCompileInputs.cache
+E:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.exe
+E:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.pdb
+E:\期中專題\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe.config
+E:\期中專題\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe
+E:\期中專題\CutePuppy\CutePuppy\bin\Debug\CutePuppy.pdb
+D:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.AssemblyReference.cache
+D:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.SuggestedBindingRedirects.cache
+D:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.FormMember.resources
+D:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.FormLogin.resources
+D:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Properties.Resources.resources
+D:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.GenerateResource.cache
+D:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.CoreCompileInputs.cache
+D:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.exe
+D:\期中專題\CutePuppy\CutePuppy\obj\Debug\CutePuppy.pdb
+D:\期中專題\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe.config
+D:\期中專題\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe
+D:\期中專題\CutePuppy\CutePuppy\bin\Debug\CutePuppy.pdb
+D:\期中專題1213\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.AssemblyReference.cache
+D:\期中專題1213\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.SuggestedBindingRedirects.cache
+D:\期中專題1213\CutePuppy\CutePuppy\obj\Debug\customerlist.FormMember.resources
+D:\期中專題1213\CutePuppy\CutePuppy\obj\Debug\customerlist.FormLogin.resources
+D:\期中專題1213\CutePuppy\CutePuppy\obj\Debug\Productlist.Product.resources
+D:\期中專題1213\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Properties.Resources.resources
+D:\期中專題1213\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.GenerateResource.cache
+D:\期中專題1213\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.CoreCompileInputs.cache
+D:\期中專題1213\CutePuppy\CutePuppy\obj\Debug\CutePuppy.exe
+D:\期中專題1213\CutePuppy\CutePuppy\obj\Debug\CutePuppy.pdb
+D:\期中專題1213\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe.config
+D:\期中專題1213\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe
+D:\期中專題1213\CutePuppy\CutePuppy\bin\Debug\CutePuppy.pdb
+D:\期中專題1213\CutePuppy\CutePuppy\obj\Debug\Orderlist.FormOrderlist.resources
+D:\期中專題1213 - 複製\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe.config
+D:\期中專題1213 - 複製\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe
+D:\期中專題1213 - 複製\CutePuppy\CutePuppy\bin\Debug\CutePuppy.pdb
+D:\期中專題1213 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.AssemblyReference.cache
+D:\期中專題1213 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.SuggestedBindingRedirects.cache
+D:\期中專題1213 - 複製\CutePuppy\CutePuppy\obj\Debug\customerlist.FormMember.resources
+D:\期中專題1213 - 複製\CutePuppy\CutePuppy\obj\Debug\customerlist.FormLogin.resources
+D:\期中專題1213 - 複製\CutePuppy\CutePuppy\obj\Debug\Orderlist.FormOrderlist.resources
+D:\期中專題1213 - 複製\CutePuppy\CutePuppy\obj\Debug\Productlist.Product.resources
+D:\期中專題1213 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Properties.Resources.resources
+D:\期中專題1213 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.GenerateResource.cache
+D:\期中專題1213 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.CoreCompileInputs.cache
+D:\期中專題1213 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.exe
+D:\期中專題1213 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.pdb
+D:\期中專題1213 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Form1.resources
+E:\期中專題1215\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe.config
+E:\期中專題1215\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe
+E:\期中專題1215\CutePuppy\CutePuppy\bin\Debug\CutePuppy.pdb
+E:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.AssemblyReference.cache
+E:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.SuggestedBindingRedirects.cache
+E:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\customerlist.FormMember.resources
+E:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Form1.resources
+E:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\customerlist.FormLogin.resources
+E:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\Orderlist.FormOrderlist.resources
+E:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\Productlist.Product.resources
+E:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Properties.Resources.resources
+E:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.GenerateResource.cache
+E:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.CoreCompileInputs.cache
+E:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.exe
+E:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.pdb
+D:\期中專題1215\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe.config
+D:\期中專題1215\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe
+D:\期中專題1215\CutePuppy\CutePuppy\bin\Debug\CutePuppy.pdb
+D:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.AssemblyReference.cache
+D:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.SuggestedBindingRedirects.cache
+D:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\customerlist.FormMember.resources
+D:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Form1.resources
+D:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\customerlist.FormLogin.resources
+D:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\Orderlist.FormOrderlist.resources
+D:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\Productlist.Product.resources
+D:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Properties.Resources.resources
+D:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.GenerateResource.cache
+D:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.CoreCompileInputs.cache
+D:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.exe
+D:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.pdb
+D:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.PuppyStoreForm.resources
+D:\期中專題1215\CutePuppy\CutePuppy\obj\Debug\CutePuppy.ShopCar.resources
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe.config
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\bin\Debug\CutePuppy.pdb
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.AssemblyReference.cache
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.SuggestedBindingRedirects.cache
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\obj\Debug\customerlist.FormMember.resources
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Form1.resources
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\obj\Debug\customerlist.FormLogin.resources
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\obj\Debug\Orderlist.FormOrderlist.resources
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\obj\Debug\Productlist.Product.resources
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Properties.Resources.resources
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.PuppyStoreForm.resources
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.ShopCar.resources
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.會員資料註冊.resources
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.GenerateResource.cache
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.CoreCompileInputs.cache
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.exe
+D:\期中專題1215 - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.pdb
+E:\期中專題1216\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe.config
+E:\期中專題1216\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe
+E:\期中專題1216\CutePuppy\CutePuppy\bin\Debug\CutePuppy.pdb
+E:\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.AssemblyReference.cache
+E:\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.SuggestedBindingRedirects.cache
+E:\期中專題1216\CutePuppy\CutePuppy\obj\Debug\customerlist.FormMember.resources
+E:\期中專題1216\CutePuppy\CutePuppy\obj\Debug\Orderlist.FormOrderlist.resources
+E:\期中專題1216\CutePuppy\CutePuppy\obj\Debug\Productlist.Product.resources
+E:\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Properties.Resources.resources
+E:\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.PuppyStoreForm.resources
+E:\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.ShopCar.resources
+E:\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.會員登入.resources
+E:\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.會員資料註冊.resources
+E:\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.GenerateResource.cache
+E:\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.CoreCompileInputs.cache
+E:\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.exe
+E:\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.pdb
+E:\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.後台管理Form.resources
+E:\期中專題1216\CutePuppy\CutePuppy\obj\Debug\customerlist.員工登入.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe.config
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\bin\Debug\CutePuppy.pdb
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.AssemblyReference.cache
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\obj\Debug\customerlist.FormMember.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.後台管理Form.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\obj\Debug\customerlist.員工登入.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\obj\Debug\Orderlist.FormOrderlist.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\obj\Debug\Productlist.Product.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Properties.Resources.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.PuppyStoreForm.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.ShopCar.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.會員登入.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.會員資料註冊.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.GenerateResource.cache
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.exe
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216\CutePuppy\CutePuppy\obj\Debug\CutePuppy.pdb
+D:\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.AssemblyReference.cache
+D:\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.SuggestedBindingRedirects.cache
+D:\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\customerlist.FormMember.resources
+D:\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\customerlist.員工登入.resources
+D:\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\Orderlist.FormOrderlist.resources
+D:\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\Productlist.Product.resources
+D:\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Properties.Resources.resources
+D:\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.PuppyStoreForm.resources
+D:\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.ShopCar.resources
+D:\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.會員登入.resources
+D:\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.會員資料註冊.resources
+D:\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.身分切換入口.resources
+D:\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.GenerateResource.cache
+D:\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.CoreCompileInputs.cache
+D:\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.exe
+D:\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.pdb
+D:\期中專題1216_over\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe.config
+D:\期中專題1216_over\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe
+D:\期中專題1216_over\CutePuppy\CutePuppy\bin\Debug\CutePuppy.pdb
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe.config
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\bin\Debug\CutePuppy.pdb
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.AssemblyReference.cache
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.SuggestedBindingRedirects.cache
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\obj\Debug\customerlist.FormMember.resources
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\obj\Debug\customerlist.員工登入.resources
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\obj\Debug\Orderlist.FormOrderlist.resources
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\obj\Debug\Productlist.Product.resources
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Properties.Resources.resources
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.PuppyStoreForm.resources
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.ShopCar.resources
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.會員登入.resources
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.會員資料註冊.resources
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.身分切換入口.resources
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.GenerateResource.cache
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.CoreCompileInputs.cache
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.exe
+D:\期中專題1216_over - 複製\CutePuppy\CutePuppy\obj\Debug\CutePuppy.pdb
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe.config
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\bin\Debug\CutePuppy.pdb
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.AssemblyReference.cache
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\customerlist.FormMember.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\customerlist.員工登入.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\Orderlist.FormOrderlist.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\Productlist.Product.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Properties.Resources.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.PuppyStoreForm.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.ShopCar.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.會員登入.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.會員資料註冊.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.身分切換入口.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.GenerateResource.cache
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.exe
+C:\Users\iSpan\OneDrive\Desktop\期中專題1216_over\CutePuppy\CutePuppy\obj\Debug\CutePuppy.pdb
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe.config
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\bin\Debug\CutePuppy.pdb
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.AssemblyReference.cache
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.SuggestedBindingRedirects.cache
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\obj\Debug\customerlist.FormMember.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\obj\Debug\customerlist.員工登入.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\obj\Debug\Orderlist.FormOrderlist.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\obj\Debug\Productlist.Product.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Properties.Resources.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.PuppyStoreForm.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.ShopCar.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.會員登入.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.會員資料註冊.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.身分切換入口.resources
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.GenerateResource.cache
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.CoreCompileInputs.cache
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.exe
+C:\Users\iSpan\OneDrive\Desktop\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.pdb
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe.config
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\bin\Debug\CutePuppy.exe
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\bin\Debug\CutePuppy.pdb
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.AssemblyReference.cache
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.SuggestedBindingRedirects.cache
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\obj\Debug\customerlist.FormMember.resources
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\obj\Debug\customerlist.員工登入.resources
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\obj\Debug\Orderlist.FormOrderlist.resources
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\obj\Debug\Productlist.Product.resources
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.Properties.Resources.resources
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.PuppyStoreForm.resources
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.ShopCar.resources
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.會員登入.resources
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.會員資料註冊.resources
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.身分切換入口.resources
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.GenerateResource.cache
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.csproj.CoreCompileInputs.cache
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.exe
+C:\Users\ShuChen\Documents\全端工程師GOGO\期中專題\期中專題1219\CutePuppy\CutePuppy\obj\Debug\CutePuppy.pdb

@@ -1,0 +1,11 @@
+D:\期中專題\CutePuppy\Products\bin\Debug\Products.exe.config
+D:\期中專題\CutePuppy\Products\bin\Debug\Products.exe
+D:\期中專題\CutePuppy\Products\bin\Debug\Products.pdb
+D:\期中專題\CutePuppy\Products\obj\Debug\Productlist.csproj.AssemblyReference.cache
+D:\期中專題\CutePuppy\Products\obj\Debug\Productlist.csproj.SuggestedBindingRedirects.cache
+D:\期中專題\CutePuppy\Products\obj\Debug\Products.Properties.Resources.resources
+D:\期中專題\CutePuppy\Products\obj\Debug\Productlist.csproj.GenerateResource.cache
+D:\期中專題\CutePuppy\Products\obj\Debug\Productlist.csproj.CoreCompileInputs.cache
+D:\期中專題\CutePuppy\Products\obj\Debug\Products.exe
+D:\期中專題\CutePuppy\Products\obj\Debug\Products.pdb
+D:\期中專題\CutePuppy\Products\obj\Debug\Productlist.Product.resources
